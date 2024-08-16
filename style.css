@@ -1,0 +1,41 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    margin:0; 
+    background: url("https://assets.codepen.io/296057/lil-css-nocode-leaves.jpg") repeat-x bottom left;
+    font-size: 1.5rem;
+}
+ hr{
+    /* color: rgb(20, 20, 212); */
+    border: 3px solid rgb(90, 57, 24);
+ }
+ 
+ ul{
+    color: blueviolet;
+ }
+ p{
+    color: green;
+ }
+ .Min{
+    color: green;
+ }
+ h1{
+    color: aqua;
+    font-family: cursive;
+    font-weight: bold;
+ }
+ h2, h3{
+    background-color:#f76201;
+    color: white;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: normal;   
+   }
+ .sp{
+    text-transform: capitalize;
+    color:cornflowerblue;
+ }
+
+ .lemon{
+    color: yellow;
+ }
